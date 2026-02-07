@@ -1,0 +1,16 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  color: #646cff;
+  margin-bottom: 1rem;
+}
+
+p {
+  color: rgba(255, 255, 255, 0.87);
+  margin-bottom: 2rem;
+}
